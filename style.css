@@ -134,7 +134,7 @@ h1{
 }
 /*Estilo para dispositivos menores*/
 
-@media screen and (max-width: 992px) 
+@media screen and (max-width: 768px) 
 {
 
     #message p 
@@ -145,7 +145,7 @@ h1{
         left: 0;
         right: 0;
         top: 150px;
-        width: 50vw;
+        width: 10vw;
         font-size: 1em;
         background-color: #000;
         color: white;
