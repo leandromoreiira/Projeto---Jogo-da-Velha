@@ -311,6 +311,7 @@ function declareWinner(winner){
 
     // logica jogada do CPU
 
+ 
     function computerPlay(){
 
         let cloneO = o.cloneNode(true);
