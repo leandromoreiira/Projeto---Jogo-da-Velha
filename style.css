@@ -146,11 +146,11 @@ h1{
         right: 0;
         top: 150px;
         width: 50vw;
-        font-size: 50px;
+        font-size: 1em;
         background-color: #000;
         color: white;
         padding: 20px;
-        font-size: 1em;
+        
     }
 
     
